@@ -1,0 +1,1221 @@
+count,Region,destination,amount,year,Key
+1,Northland,Northland,5978,2015,1
+3,Auckland,Northland,132,2015,1
+5,Waikato,Northland,75,2015,1
+7,Bay of Plenty,Northland,36,2015,1
+9,Taranaki,Northland,15,2015,1
+12,Manawatu-Wanganui,Northland,8,2015,1
+16,Tasman-Nelson-Marlborough,Northland,9,2015,1
+18,Canterbury,Northland,24,2015,1
+20,Otago,Northland,0,2015,1
+21,Southland,Northland,13,2015,1
+23,Northland,Waitemata,745,2015,1
+25,Auckland,Waitemata,6177,2015,1
+27,Waikato,Waitemata,639,2015,1
+29,Bay of Plenty,Waitemata,198,2015,1
+31,Taranaki,Waitemata,70,2015,1
+34,Manawatu-Wanganui,Waitemata,34,2015,1
+38,Tasman-Nelson-Marlborough,Waitemata,46,2015,1
+40,Canterbury,Waitemata,130,2015,1
+42,Otago,Waitemata,0,2015,1
+43,Southland,Waitemata,66,2015,1
+45,Northland,Auckland,145,2015,1
+47,Auckland,Auckland,10079,2015,1
+49,Waikato,Auckland,221,2015,1
+51,Bay of Plenty,Auckland,116,2015,1
+53,Taranaki,Auckland,42,2015,1
+56,Manawatu-Wanganui,Auckland,12,2015,1
+60,Tasman-Nelson-Marlborough,Auckland,25,2015,1
+62,Canterbury,Auckland,86,2015,1
+64,Otago,Auckland,0,2015,1
+65,Southland,Auckland,45,2015,1
+67,Northland,Counties Manukau,147,2015,1
+69,Auckland,Counties Manukau,1213,2015,1
+71,Waikato,Counties Manukau,192,2015,1
+73,Bay of Plenty,Counties Manukau,77,2015,1
+75,Taranaki,Counties Manukau,29,2015,1
+78,Manawatu-Wanganui,Counties Manukau,15,2015,1
+82,Tasman-Nelson-Marlborough,Counties Manukau,12,2015,1
+84,Canterbury,Counties Manukau,42,2015,1
+86,Otago,Counties Manukau,0,2015,1
+87,Southland,Counties Manukau,29,2015,1
+89,Northland,Waikato,65,2015,1
+91,Auckland,Waikato,140,2015,1
+93,Waikato,Waikato,9786,2015,1
+95,Bay of Plenty,Waikato,335,2015,1
+97,Taranaki,Waikato,96,2015,1
+100,Manawatu-Wanganui,Waikato,28,2015,1
+104,Tasman-Nelson-Marlborough,Waikato,24,2015,1
+106,Canterbury,Waikato,35,2015,1
+108,Otago,Waikato,0,2015,1
+109,Southland,Waikato,47,2015,1
+111,Northland,Lakes,11,2015,1
+113,Auckland,Lakes,32,2015,1
+115,Waikato,Lakes,102,2015,1
+117,Bay of Plenty,Lakes,105,2015,1
+119,Taranaki,Lakes,7,2015,1
+122,Manawatu-Wanganui,Lakes,7,2015,1
+126,Tasman-Nelson-Marlborough,Lakes,9,2015,1
+128,Canterbury,Lakes,9,2015,1
+130,Otago,Lakes,0,2015,1
+131,Southland,Lakes,29,2015,1
+133,Northland,Bay of Plenty,22,2015,1
+135,Auckland,Bay of Plenty,65,2015,1
+137,Waikato,Bay of Plenty,171,2015,1
+139,Bay of Plenty,Bay of Plenty,7994,2015,1
+141,Taranaki,Bay of Plenty,12,2015,1
+144,Manawatu-Wanganui,Bay of Plenty,3,2015,1
+148,Tasman-Nelson-Marlborough,Bay of Plenty,6,2015,1
+150,Canterbury,Bay of Plenty,31,2015,1
+152,Otago,Bay of Plenty,0,2015,1
+153,Southland,Bay of Plenty,21,2015,1
+155,Northland,Tairawhiti,4,2015,1
+157,Auckland,Tairawhiti,11,2015,1
+159,Waikato,Tairawhiti,17,2015,1
+161,Bay of Plenty,Tairawhiti,16,2015,1
+163,Taranaki,Tairawhiti,1,2015,1
+166,Manawatu-Wanganui,Tairawhiti,3,2015,1
+170,Tasman-Nelson-Marlborough,Tairawhiti,3,2015,1
+172,Canterbury,Tairawhiti,9,2015,1
+174,Otago,Tairawhiti,0,2015,1
+175,Southland,Tairawhiti,0,2015,1
+177,Northland,Taranaki,6,2015,1
+179,Auckland,Taranaki,21,2015,1
+181,Waikato,Taranaki,28,2015,1
+183,Bay of Plenty,Taranaki,9,2015,1
+185,Taranaki,Taranaki,3958,2015,1
+188,Manawatu-Wanganui,Taranaki,22,2015,1
+192,Tasman-Nelson-Marlborough,Taranaki,5,2015,1
+194,Canterbury,Taranaki,14,2015,1
+196,Otago,Taranaki,0,2015,1
+197,Southland,Taranaki,4,2015,1
+199,Northland,Hawkes Bay,15,2015,1
+201,Auckland,Hawkes Bay,37,2015,1
+203,Waikato,Hawkes Bay,51,2015,1
+205,Bay of Plenty,Hawkes Bay,40,2015,1
+207,Taranaki,Hawkes Bay,27,2015,1
+210,Manawatu-Wanganui,Hawkes Bay,24,2015,1
+214,Tasman-Nelson-Marlborough,Hawkes Bay,9,2015,1
+216,Canterbury,Hawkes Bay,30,2015,1
+218,Otago,Hawkes Bay,0,2015,1
+219,Southland,Hawkes Bay,16,2015,1
+221,Northland,MidCentral,9,2015,1
+223,Auckland,MidCentral,17,2015,1
+225,Waikato,MidCentral,28,2015,1
+227,Bay of Plenty,MidCentral,24,2015,1
+229,Taranaki,MidCentral,19,2015,1
+232,Manawatu-Wanganui,MidCentral,80,2015,1
+236,Tasman-Nelson-Marlborough,MidCentral,17,2015,1
+238,Canterbury,MidCentral,25,2015,1
+240,Otago,MidCentral,0,2015,1
+241,Southland,MidCentral,9,2015,1
+243,Northland,Whanganui,3,2015,1
+245,Auckland,Whanganui,5,2015,1
+247,Waikato,Whanganui,32,2015,1
+249,Bay of Plenty,Whanganui,12,2015,1
+251,Taranaki,Whanganui,45,2015,1
+254,Manawatu-Wanganui,Whanganui,2724,2015,1
+258,Tasman-Nelson-Marlborough,Whanganui,5,2015,1
+260,Canterbury,Whanganui,8,2015,1
+262,Otago,Whanganui,0,2015,1
+263,Southland,Whanganui,2,2015,1
+265,Northland,Capital and Coast,33,2015,1
+267,Auckland,Capital and Coast,108,2015,1
+269,Waikato,Capital and Coast,115,2015,1
+271,Bay of Plenty,Capital and Coast,75,2015,1
+273,Taranaki,Capital and Coast,148,2015,1
+276,Manawatu-Wanganui,Capital and Coast,208,2015,1
+280,Tasman-Nelson-Marlborough,Capital and Coast,68,2015,1
+282,Canterbury,Capital and Coast,98,2015,1
+284,Otago,Capital and Coast,0,2015,1
+285,Southland,Capital and Coast,61,2015,1
+287,Northland,Hutt Valley,1,2015,1
+289,Auckland,Hutt Valley,12,2015,1
+291,Waikato,Hutt Valley,17,2015,1
+293,Bay of Plenty,Hutt Valley,8,2015,1
+295,Taranaki,Hutt Valley,10,2015,1
+298,Manawatu-Wanganui,Hutt Valley,12,2015,1
+302,Tasman-Nelson-Marlborough,Hutt Valley,5,2015,1
+304,Canterbury,Hutt Valley,16,2015,1
+306,Otago,Hutt Valley,0,2015,1
+307,Southland,Hutt Valley,5,2015,1
+309,Northland,Wairarapa,1,2015,1
+311,Auckland,Wairarapa,1,2015,1
+313,Waikato,Wairarapa,3,2015,1
+315,Bay of Plenty,Wairarapa,4,2015,1
+317,Taranaki,Wairarapa,4,2015,1
+320,Manawatu-Wanganui,Wairarapa,4,2015,1
+324,Tasman-Nelson-Marlborough,Wairarapa,5,2015,1
+326,Canterbury,Wairarapa,3,2015,1
+328,Otago,Wairarapa,0,2015,1
+329,Southland,Wairarapa,3,2015,1
+331,Northland,Nelson Marlborough,3,2015,1
+333,Auckland,Nelson Marlborough,19,2015,1
+335,Waikato,Nelson Marlborough,18,2015,1
+337,Bay of Plenty,Nelson Marlborough,6,2015,1
+339,Taranaki,Nelson Marlborough,4,2015,1
+342,Manawatu-Wanganui,Nelson Marlborough,6,2015,1
+346,Tasman-Nelson-Marlborough,Nelson Marlborough,4871,2015,1
+348,Canterbury,Nelson Marlborough,160,2015,1
+350,Otago,Nelson Marlborough,0,2015,1
+351,Southland,Nelson Marlborough,47,2015,1
+353,Northland,West Coast,3,2015,1
+355,Auckland,West Coast,4,2015,1
+357,Waikato,West Coast,7,2015,1
+359,Bay of Plenty,West Coast,0,2015,1
+361,Taranaki,West Coast,2,2015,1
+364,Manawatu-Wanganui,West Coast,0,2015,1
+368,Tasman-Nelson-Marlborough,West Coast,34,2015,1
+370,Canterbury,West Coast,82,2015,1
+372,Otago,West Coast,0,2015,1
+373,Southland,West Coast,11,2015,1
+375,Northland,Canterbury,23,2015,1
+377,Auckland,Canterbury,40,2015,1
+379,Waikato,Canterbury,30,2015,1
+381,Bay of Plenty,Canterbury,20,2015,1
+383,Taranaki,Canterbury,12,2015,1
+386,Manawatu-Wanganui,Canterbury,7,2015,1
+390,Tasman-Nelson-Marlborough,Canterbury,156,2015,1
+392,Canterbury,Canterbury,12535,2015,1
+394,Otago,Canterbury,0,2015,1
+395,Southland,Canterbury,272,2015,1
+397,Northland,South Canterbury,3,2015,1
+399,Auckland,South Canterbury,3,2015,1
+401,Waikato,South Canterbury,6,2015,1
+403,Bay of Plenty,South Canterbury,5,2015,1
+405,Taranaki,South Canterbury,3,2015,1
+408,Manawatu-Wanganui,South Canterbury,0,2015,1
+412,Tasman-Nelson-Marlborough,South Canterbury,24,2015,1
+414,Canterbury,South Canterbury,192,2015,1
+416,Otago,South Canterbury,0,2015,1
+417,Southland,South Canterbury,109,2015,1
+419,Northland,Southern,16,2015,1
+421,Auckland,Southern,38,2015,1
+423,Waikato,Southern,26,2015,1
+425,Bay of Plenty,Southern,18,2015,1
+427,Taranaki,Southern,5,2015,1
+430,Manawatu-Wanganui,Southern,7,2015,1
+434,Tasman-Nelson-Marlborough,Southern,48,2015,1
+436,Canterbury,Southern,177,2015,1
+438,Otago,Southern,0,2015,1
+439,Southland,Southern,8950,2015,1
+441,Northland,Waitemata,777,2016,1
+443,Auckland,Waitemata,6444,2016,1
+445,Waikato,Waitemata,630,2016,1
+447,Bay of Plenty,Waitemata,199,2016,1
+449,Taranaki,Waitemata,52,2016,1
+452,Manawatu-Wanganui,Waitemata,28,2016,1
+456,Tasman-Nelson-Marlborough,Waitemata,56,2016,1
+458,Canterbury,Waitemata,126,2016,1
+460,Otago,Waitemata,0,2016,1
+461,Southland,Waitemata,58,2016,1
+463,Northland,Auckland,180,2016,1
+465,Auckland,Auckland,10835,2016,1
+467,Waikato,Auckland,273,2016,1
+469,Bay of Plenty,Auckland,134,2016,1
+471,Taranaki,Auckland,46,2016,1
+474,Manawatu-Wanganui,Auckland,15,2016,1
+478,Tasman-Nelson-Marlborough,Auckland,31,2016,1
+480,Canterbury,Auckland,90,2016,1
+482,Otago,Auckland,0,2016,1
+483,Southland,Auckland,77,2016,1
+485,Northland,Counties Manukau,129,2016,1
+487,Auckland,Counties Manukau,1296,2016,1
+489,Waikato,Counties Manukau,227,2016,1
+491,Bay of Plenty,Counties Manukau,73,2016,1
+493,Taranaki,Counties Manukau,29,2016,1
+496,Manawatu-Wanganui,Counties Manukau,12,2016,1
+500,Tasman-Nelson-Marlborough,Counties Manukau,11,2016,1
+502,Canterbury,Counties Manukau,39,2016,1
+504,Otago,Counties Manukau,0,2016,1
+505,Southland,Counties Manukau,27,2016,1
+507,Northland,Waikato,60,2016,1
+509,Auckland,Waikato,159,2016,1
+511,Waikato,Waikato,10320,2016,1
+513,Bay of Plenty,Waikato,334,2016,1
+515,Taranaki,Waikato,100,2016,1
+518,Manawatu-Wanganui,Waikato,18,2016,1
+522,Tasman-Nelson-Marlborough,Waikato,20,2016,1
+524,Canterbury,Waikato,33,2016,1
+526,Otago,Waikato,0,2016,1
+527,Southland,Waikato,38,2016,1
+529,Northland,Lakes,18,2016,1
+531,Auckland,Lakes,39,2016,1
+533,Waikato,Lakes,139,2016,1
+535,Bay of Plenty,Lakes,143,2016,1
+537,Taranaki,Lakes,5,2016,1
+540,Manawatu-Wanganui,Lakes,7,2016,1
+544,Tasman-Nelson-Marlborough,Lakes,6,2016,1
+546,Canterbury,Lakes,7,2016,1
+548,Otago,Lakes,0,2016,1
+549,Southland,Lakes,15,2016,1
+551,Northland,Bay of Plenty,34,2016,1
+553,Auckland,Bay of Plenty,70,2016,1
+555,Waikato,Bay of Plenty,194,2016,1
+557,Bay of Plenty,Bay of Plenty,8011,2016,1
+559,Taranaki,Bay of Plenty,10,2016,1
+562,Manawatu-Wanganui,Bay of Plenty,7,2016,1
+566,Tasman-Nelson-Marlborough,Bay of Plenty,7,2016,1
+568,Canterbury,Bay of Plenty,32,2016,1
+570,Otago,Bay of Plenty,0,2016,1
+571,Southland,Bay of Plenty,26,2016,1
+573,Northland,Tairawhiti,4,2016,1
+575,Auckland,Tairawhiti,7,2016,1
+577,Waikato,Tairawhiti,12,2016,1
+579,Bay of Plenty,Tairawhiti,20,2016,1
+581,Taranaki,Tairawhiti,0,2016,1
+584,Manawatu-Wanganui,Tairawhiti,2,2016,1
+588,Tasman-Nelson-Marlborough,Tairawhiti,4,2016,1
+590,Canterbury,Tairawhiti,5,2016,1
+592,Otago,Tairawhiti,0,2016,1
+593,Southland,Tairawhiti,5,2016,1
+595,Northland,Taranaki,7,2016,1
+597,Auckland,Taranaki,17,2016,1
+599,Waikato,Taranaki,27,2016,1
+601,Bay of Plenty,Taranaki,13,2016,1
+603,Taranaki,Taranaki,4191,2016,1
+606,Manawatu-Wanganui,Taranaki,20,2016,1
+610,Tasman-Nelson-Marlborough,Taranaki,8,2016,1
+612,Canterbury,Taranaki,12,2016,1
+614,Otago,Taranaki,0,2016,1
+615,Southland,Taranaki,15,2016,1
+617,Northland,Hawkes Bay,10,2016,1
+619,Auckland,Hawkes Bay,43,2016,1
+621,Waikato,Hawkes Bay,63,2016,1
+623,Bay of Plenty,Hawkes Bay,35,2016,1
+625,Taranaki,Hawkes Bay,15,2016,1
+628,Manawatu-Wanganui,Hawkes Bay,23,2016,1
+632,Tasman-Nelson-Marlborough,Hawkes Bay,16,2016,1
+634,Canterbury,Hawkes Bay,27,2016,1
+636,Otago,Hawkes Bay,0,2016,1
+637,Southland,Hawkes Bay,13,2016,1
+639,Northland,MidCentral,12,2016,1
+641,Auckland,MidCentral,19,2016,1
+643,Waikato,MidCentral,31,2016,1
+645,Bay of Plenty,MidCentral,19,2016,1
+647,Taranaki,MidCentral,30,2016,1
+650,Manawatu-Wanganui,MidCentral,92,2016,1
+654,Tasman-Nelson-Marlborough,MidCentral,16,2016,1
+656,Canterbury,MidCentral,23,2016,1
+658,Otago,MidCentral,0,2016,1
+659,Southland,MidCentral,8,2016,1
+661,Northland,Whanganui,9,2016,1
+663,Auckland,Whanganui,14,2016,1
+665,Waikato,Whanganui,32,2016,1
+667,Bay of Plenty,Whanganui,16,2016,1
+669,Taranaki,Whanganui,32,2016,1
+672,Manawatu-Wanganui,Whanganui,2884,2016,1
+676,Tasman-Nelson-Marlborough,Whanganui,6,2016,1
+678,Canterbury,Whanganui,14,2016,1
+680,Otago,Whanganui,0,2016,1
+681,Southland,Whanganui,10,2016,1
+683,Northland,Capital and Coast,37,2016,1
+685,Auckland,Capital and Coast,130,2016,1
+687,Waikato,Capital and Coast,156,2016,1
+689,Bay of Plenty,Capital and Coast,65,2016,1
+691,Taranaki,Capital and Coast,129,2016,1
+694,Manawatu-Wanganui,Capital and Coast,223,2016,1
+698,Tasman-Nelson-Marlborough,Capital and Coast,74,2016,1
+700,Canterbury,Capital and Coast,111,2016,1
+702,Otago,Capital and Coast,0,2016,1
+703,Southland,Capital and Coast,77,2016,1
+705,Northland,Hutt Valley,6,2016,1
+707,Auckland,Hutt Valley,10,2016,1
+709,Waikato,Hutt Valley,11,2016,1
+711,Bay of Plenty,Hutt Valley,10,2016,1
+713,Taranaki,Hutt Valley,0,2016,1
+716,Manawatu-Wanganui,Hutt Valley,9,2016,1
+720,Tasman-Nelson-Marlborough,Hutt Valley,8,2016,1
+722,Canterbury,Hutt Valley,13,2016,1
+724,Otago,Hutt Valley,0,2016,1
+725,Southland,Hutt Valley,4,2016,1
+727,Northland,Wairarapa,2,2016,1
+729,Auckland,Wairarapa,2,2016,1
+731,Waikato,Wairarapa,3,2016,1
+733,Bay of Plenty,Wairarapa,5,2016,1
+735,Taranaki,Wairarapa,5,2016,1
+738,Manawatu-Wanganui,Wairarapa,2,2016,1
+742,Tasman-Nelson-Marlborough,Wairarapa,8,2016,1
+744,Canterbury,Wairarapa,4,2016,1
+746,Otago,Wairarapa,0,2016,1
+747,Southland,Wairarapa,2,2016,1
+749,Northland,Nelson Marlborough,10,2016,1
+751,Auckland,Nelson Marlborough,17,2016,1
+753,Waikato,Nelson Marlborough,17,2016,1
+755,Bay of Plenty,Nelson Marlborough,11,2016,1
+757,Taranaki,Nelson Marlborough,5,2016,1
+760,Manawatu-Wanganui,Nelson Marlborough,8,2016,1
+764,Tasman-Nelson-Marlborough,Nelson Marlborough,5162,2016,1
+766,Canterbury,Nelson Marlborough,207,2016,1
+768,Otago,Nelson Marlborough,0,2016,1
+769,Southland,Nelson Marlborough,56,2016,1
+771,Northland,West Coast,1,2016,1
+773,Auckland,West Coast,7,2016,1
+775,Waikato,West Coast,5,2016,1
+777,Bay of Plenty,West Coast,3,2016,1
+779,Taranaki,West Coast,0,2016,1
+782,Manawatu-Wanganui,West Coast,1,2016,1
+786,Tasman-Nelson-Marlborough,West Coast,35,2016,1
+788,Canterbury,West Coast,78,2016,1
+790,Otago,West Coast,0,2016,1
+791,Southland,West Coast,20,2016,1
+793,Northland,Canterbury,38,2016,1
+795,Auckland,Canterbury,56,2016,1
+797,Waikato,Canterbury,50,2016,1
+799,Bay of Plenty,Canterbury,28,2016,1
+801,Taranaki,Canterbury,21,2016,1
+804,Manawatu-Wanganui,Canterbury,12,2016,1
+808,Tasman-Nelson-Marlborough,Canterbury,264,2016,1
+810,Canterbury,Canterbury,13129,2016,1
+812,Otago,Canterbury,0,2016,1
+813,Southland,Canterbury,343,2016,1
+815,Northland,South Canterbury,1,2016,1
+817,Auckland,South Canterbury,7,2016,1
+819,Waikato,South Canterbury,9,2016,1
+821,Bay of Plenty,South Canterbury,6,2016,1
+823,Taranaki,South Canterbury,1,2016,1
+826,Manawatu-Wanganui,South Canterbury,2,2016,1
+830,Tasman-Nelson-Marlborough,South Canterbury,17,2016,1
+832,Canterbury,South Canterbury,146,2016,1
+834,Otago,South Canterbury,0,2016,1
+835,Southland,South Canterbury,87,2016,1
+837,Northland,Southern,15,2016,1
+839,Auckland,Southern,40,2016,1
+841,Waikato,Southern,24,2016,1
+843,Bay of Plenty,Southern,10,2016,1
+845,Taranaki,Southern,10,2016,1
+848,Manawatu-Wanganui,Southern,4,2016,1
+852,Tasman-Nelson-Marlborough,Southern,49,2016,1
+854,Canterbury,Southern,216,2016,1
+856,Otago,Southern,0,2016,1
+857,Southland,Southern,9332,2016,1
+859,Northland,Waitematā,760,2017,1
+861,Auckland,Waitematā,6094,2017,1
+863,Waikato,Waitematā,495,2017,1
+865,Bay of Plenty,Waitematā,186,2017,1
+867,Taranaki,Waitematā,53,2017,1
+870,Manawatu-Wanganui,Waitematā,31,2017,1
+874,Tasman-Nelson-Marlborough,Waitematā,46,2017,1
+876,Canterbury,Waitematā,118,2017,1
+878,Otago,Waitematā,0,2017,1
+879,Southland,Waitematā,73,2017,1
+881,Northland,Auckland,229,2017,1
+883,Auckland,Auckland,11133,2017,1
+885,Waikato,Auckland,284,2017,1
+887,Bay of Plenty,Auckland,148,2017,1
+889,Taranaki,Auckland,46,2017,1
+892,Manawatu-Wanganui,Auckland,18,2017,1
+896,Tasman-Nelson-Marlborough,Auckland,26,2017,1
+898,Canterbury,Auckland,87,2017,1
+900,Otago,Auckland,0,2017,1
+901,Southland,Auckland,55,2017,1
+903,Northland,Counties Manukau,136,2017,1
+905,Auckland,Counties Manukau,1246,2017,1
+907,Waikato,Counties Manukau,253,2017,1
+909,Bay of Plenty,Counties Manukau,87,2017,1
+911,Taranaki,Counties Manukau,31,2017,1
+914,Manawatu-Wanganui,Counties Manukau,14,2017,1
+918,Tasman-Nelson-Marlborough,Counties Manukau,20,2017,1
+920,Canterbury,Counties Manukau,56,2017,1
+922,Otago,Counties Manukau,0,2017,1
+923,Southland,Counties Manukau,24,2017,1
+925,Northland,Waikato,54,2017,1
+927,Auckland,Waikato,161,2017,1
+929,Waikato,Waikato,10815,2017,1
+931,Bay of Plenty,Waikato,343,2017,1
+933,Taranaki,Waikato,125,2017,1
+936,Manawatu-Wanganui,Waikato,38,2017,1
+940,Tasman-Nelson-Marlborough,Waikato,22,2017,1
+942,Canterbury,Waikato,37,2017,1
+944,Otago,Waikato,0,2017,1
+945,Southland,Waikato,29,2017,1
+947,Northland,Lakes,6,2017,1
+949,Auckland,Lakes,24,2017,1
+951,Waikato,Lakes,134,2017,1
+953,Bay of Plenty,Lakes,115,2017,1
+955,Taranaki,Lakes,12,2017,1
+958,Manawatu-Wanganui,Lakes,10,2017,1
+962,Tasman-Nelson-Marlborough,Lakes,6,2017,1
+964,Canterbury,Lakes,6,2017,1
+966,Otago,Lakes,0,2017,1
+967,Southland,Lakes,14,2017,1
+969,Northland,Bay of Plenty,27,2017,1
+971,Auckland,Bay of Plenty,70,2017,1
+973,Waikato,Bay of Plenty,215,2017,1
+975,Bay of Plenty,Bay of Plenty,8720,2017,1
+977,Taranaki,Bay of Plenty,10,2017,1
+980,Manawatu-Wanganui,Bay of Plenty,12,2017,1
+984,Tasman-Nelson-Marlborough,Bay of Plenty,12,2017,1
+986,Canterbury,Bay of Plenty,28,2017,1
+988,Otago,Bay of Plenty,0,2017,1
+989,Southland,Bay of Plenty,15,2017,1
+991,Northland,Tairāwhiti,7,2017,1
+993,Auckland,Tairāwhiti,15,2017,1
+995,Waikato,Tairāwhiti,15,2017,1
+997,Bay of Plenty,Tairāwhiti,20,2017,1
+999,Taranaki,Tairāwhiti,2,2017,1
+1002,Manawatu-Wanganui,Tairāwhiti,2,2017,1
+1006,Tasman-Nelson-Marlborough,Tairāwhiti,4,2017,1
+1008,Canterbury,Tairāwhiti,7,2017,1
+1010,Otago,Tairāwhiti,0,2017,1
+1011,Southland,Tairāwhiti,2,2017,1
+1013,Northland,Hawke's Bay,18,2017,1
+1015,Auckland,Hawke's Bay,30,2017,1
+1017,Waikato,Hawke's Bay,51,2017,1
+1019,Bay of Plenty,Hawke's Bay,36,2017,1
+1021,Taranaki,Hawke's Bay,23,2017,1
+1024,Manawatu-Wanganui,Hawke's Bay,23,2017,1
+1028,Tasman-Nelson-Marlborough,Hawke's Bay,13,2017,1
+1030,Canterbury,Hawke's Bay,20,2017,1
+1032,Otago,Hawke's Bay,0,2017,1
+1033,Southland,Hawke's Bay,16,2017,1
+1035,Northland,Taranaki,4,2017,1
+1037,Auckland,Taranaki,19,2017,1
+1039,Waikato,Taranaki,34,2017,1
+1041,Bay of Plenty,Taranaki,12,2017,1
+1043,Taranaki,Taranaki,4482,2017,1
+1046,Manawatu-Wanganui,Taranaki,23,2017,1
+1050,Tasman-Nelson-Marlborough,Taranaki,9,2017,1
+1052,Canterbury,Taranaki,9,2017,1
+1054,Otago,Taranaki,0,2017,1
+1055,Southland,Taranaki,9,2017,1
+1057,Northland,MidCentral,15,2017,1
+1059,Auckland,MidCentral,25,2017,1
+1061,Waikato,MidCentral,29,2017,1
+1063,Bay of Plenty,MidCentral,19,2017,1
+1065,Taranaki,MidCentral,30,2017,1
+1068,Manawatu-Wanganui,MidCentral,96,2017,1
+1072,Tasman-Nelson-Marlborough,MidCentral,14,2017,1
+1074,Canterbury,MidCentral,27,2017,1
+1076,Otago,MidCentral,0,2017,1
+1077,Southland,MidCentral,11,2017,1
+1079,Northland,Whanganui,11,2017,1
+1081,Auckland,Whanganui,11,2017,1
+1083,Waikato,Whanganui,38,2017,1
+1085,Bay of Plenty,Whanganui,15,2017,1
+1087,Taranaki,Whanganui,45,2017,1
+1090,Manawatu-Wanganui,Whanganui,3047,2017,1
+1094,Tasman-Nelson-Marlborough,Whanganui,5,2017,1
+1096,Canterbury,Whanganui,6,2017,1
+1098,Otago,Whanganui,0,2017,1
+1099,Southland,Whanganui,9,2017,1
+1101,Northland,Capital and Coast,24,2017,1
+1103,Auckland,Capital and Coast,111,2017,1
+1105,Waikato,Capital and Coast,138,2017,1
+1107,Bay of Plenty,Capital and Coast,79,2017,1
+1109,Taranaki,Capital and Coast,147,2017,1
+1112,Manawatu-Wanganui,Capital and Coast,214,2017,1
+1116,Tasman-Nelson-Marlborough,Capital and Coast,65,2017,1
+1118,Canterbury,Capital and Coast,92,2017,1
+1120,Otago,Capital and Coast,0,2017,1
+1121,Southland,Capital and Coast,64,2017,1
+1123,Northland,Hutt Valley,6,2017,1
+1125,Auckland,Hutt Valley,7,2017,1
+1127,Waikato,Hutt Valley,15,2017,1
+1129,Bay of Plenty,Hutt Valley,8,2017,1
+1131,Taranaki,Hutt Valley,6,2017,1
+1134,Manawatu-Wanganui,Hutt Valley,9,2017,1
+1138,Tasman-Nelson-Marlborough,Hutt Valley,14,2017,1
+1140,Canterbury,Hutt Valley,3,2017,1
+1142,Otago,Hutt Valley,0,2017,1
+1143,Southland,Hutt Valley,10,2017,1
+1145,Northland,Wairarapa,3,2017,1
+1147,Auckland,Wairarapa,2,2017,1
+1149,Waikato,Wairarapa,4,2017,1
+1151,Bay of Plenty,Wairarapa,1,2017,1
+1153,Taranaki,Wairarapa,4,2017,1
+1156,Manawatu-Wanganui,Wairarapa,1,2017,1
+1160,Tasman-Nelson-Marlborough,Wairarapa,2,2017,1
+1162,Canterbury,Wairarapa,5,2017,1
+1164,Otago,Wairarapa,0,2017,1
+1165,Southland,Wairarapa,2,2017,1
+1167,Northland,Nelson Marlborough,10,2017,1
+1169,Auckland,Nelson Marlborough,20,2017,1
+1171,Waikato,Nelson Marlborough,21,2017,1
+1173,Bay of Plenty,Nelson Marlborough,13,2017,1
+1175,Taranaki,Nelson Marlborough,12,2017,1
+1178,Manawatu-Wanganui,Nelson Marlborough,6,2017,1
+1182,Tasman-Nelson-Marlborough,Nelson Marlborough,5430,2017,1
+1184,Canterbury,Nelson Marlborough,188,2017,1
+1186,Otago,Nelson Marlborough,0,2017,1
+1187,Southland,Nelson Marlborough,55,2017,1
+1189,Northland,West Coast,1,2017,1
+1191,Auckland,West Coast,4,2017,1
+1193,Waikato,West Coast,3,2017,1
+1195,Bay of Plenty,West Coast,1,2017,1
+1197,Taranaki,West Coast,2,2017,1
+1200,Manawatu-Wanganui,West Coast,1,2017,1
+1204,Tasman-Nelson-Marlborough,West Coast,55,2017,1
+1206,Canterbury,West Coast,85,2017,1
+1208,Otago,West Coast,0,2017,1
+1209,Southland,West Coast,29,2017,1
+1211,Northland,Canterbury,19,2017,1
+1213,Auckland,Canterbury,56,2017,1
+1215,Waikato,Canterbury,48,2017,1
+1217,Bay of Plenty,Canterbury,27,2017,1
+1219,Taranaki,Canterbury,12,2017,1
+1222,Manawatu-Wanganui,Canterbury,16,2017,1
+1226,Tasman-Nelson-Marlborough,Canterbury,261,2017,1
+1228,Canterbury,Canterbury,11850,2017,1
+1230,Otago,Canterbury,0,2017,1
+1231,Southland,Canterbury,322,2017,1
+1233,Northland,South Canterbury,4,2017,1
+1235,Auckland,South Canterbury,3,2017,1
+1237,Waikato,South Canterbury,7,2017,1
+1239,Bay of Plenty,South Canterbury,3,2017,1
+1241,Taranaki,South Canterbury,1,2017,1
+1244,Manawatu-Wanganui,South Canterbury,3,2017,1
+1248,Tasman-Nelson-Marlborough,South Canterbury,26,2017,1
+1250,Canterbury,South Canterbury,134,2017,1
+1252,Otago,South Canterbury,0,2017,1
+1253,Southland,South Canterbury,79,2017,1
+1255,Northland,Southern,12,2017,1
+1257,Auckland,Southern,33,2017,1
+1259,Waikato,Southern,31,2017,1
+1261,Bay of Plenty,Southern,15,2017,1
+1263,Taranaki,Southern,9,2017,1
+1266,Manawatu-Wanganui,Southern,3,2017,1
+1270,Tasman-Nelson-Marlborough,Southern,50,2017,1
+1272,Canterbury,Southern,213,2017,1
+1274,Otago,Southern,0,2017,1
+1275,Southland,Southern,9931,2017,1
+1277,Northland,Waitematā,738,2018,1
+1279,Auckland,Waitematā,5755,2018,1
+1281,Waikato,Waitematā,454,2018,1
+1283,Bay of Plenty,Waitematā,162,2018,1
+1285,Taranaki,Waitematā,36,2018,1
+1288,Manawatu-Wanganui,Waitematā,30,2018,1
+1292,Tasman-Nelson-Marlborough,Waitematā,39,2018,1
+1294,Canterbury,Waitematā,77,2018,1
+1296,Otago,Waitematā,0,2018,1
+1297,Southland,Waitematā,62,2018,1
+1299,Northland,Auckland,204,2018,1
+1301,Auckland,Auckland,11170,2018,1
+1303,Waikato,Auckland,257,2018,1
+1305,Bay of Plenty,Auckland,134,2018,1
+1307,Taranaki,Auckland,44,2018,1
+1310,Manawatu-Wanganui,Auckland,18,2018,1
+1314,Tasman-Nelson-Marlborough,Auckland,27,2018,1
+1316,Canterbury,Auckland,70,2018,1
+1318,Otago,Auckland,0,2018,1
+1319,Southland,Auckland,70,2018,1
+1321,Northland,Counties Manukau,121,2018,1
+1323,Auckland,Counties Manukau,1303,2018,1
+1325,Waikato,Counties Manukau,202,2018,1
+1327,Bay of Plenty,Counties Manukau,71,2018,1
+1329,Taranaki,Counties Manukau,30,2018,1
+1332,Manawatu-Wanganui,Counties Manukau,11,2018,1
+1336,Tasman-Nelson-Marlborough,Counties Manukau,16,2018,1
+1338,Canterbury,Counties Manukau,42,2018,1
+1340,Otago,Counties Manukau,0,2018,1
+1341,Southland,Counties Manukau,24,2018,1
+1343,Northland,Waikato,65,2018,1
+1345,Auckland,Waikato,153,2018,1
+1347,Waikato,Waikato,12342,2018,1
+1349,Bay of Plenty,Waikato,389,2018,1
+1351,Taranaki,Waikato,109,2018,1
+1354,Manawatu-Wanganui,Waikato,33,2018,1
+1358,Tasman-Nelson-Marlborough,Waikato,14,2018,1
+1360,Canterbury,Waikato,40,2018,1
+1362,Otago,Waikato,0,2018,1
+1363,Southland,Waikato,45,2018,1
+1365,Northland,Lakes,8,2018,1
+1367,Auckland,Lakes,19,2018,1
+1369,Waikato,Lakes,107,2018,1
+1371,Bay of Plenty,Lakes,92,2018,1
+1373,Taranaki,Lakes,7,2018,1
+1376,Manawatu-Wanganui,Lakes,7,2018,1
+1380,Tasman-Nelson-Marlborough,Lakes,3,2018,1
+1382,Canterbury,Lakes,4,2018,1
+1384,Otago,Lakes,0,2018,1
+1385,Southland,Lakes,6,2018,1
+1387,Northland,Bay of Plenty,24,2018,1
+1389,Auckland,Bay of Plenty,63,2018,1
+1391,Waikato,Bay of Plenty,242,2018,1
+1393,Bay of Plenty,Bay of Plenty,8823,2018,1
+1395,Taranaki,Bay of Plenty,20,2018,1
+1398,Manawatu-Wanganui,Bay of Plenty,11,2018,1
+1402,Tasman-Nelson-Marlborough,Bay of Plenty,10,2018,1
+1404,Canterbury,Bay of Plenty,22,2018,1
+1406,Otago,Bay of Plenty,0,2018,1
+1407,Southland,Bay of Plenty,15,2018,1
+1409,Northland,Tairāwhiti,2,2018,1
+1411,Auckland,Tairāwhiti,5,2018,1
+1413,Waikato,Tairāwhiti,13,2018,1
+1415,Bay of Plenty,Tairāwhiti,9,2018,1
+1417,Taranaki,Tairāwhiti,1,2018,1
+1420,Manawatu-Wanganui,Tairāwhiti,3,2018,1
+1424,Tasman-Nelson-Marlborough,Tairāwhiti,3,2018,1
+1426,Canterbury,Tairāwhiti,4,2018,1
+1428,Otago,Tairāwhiti,0,2018,1
+1429,Southland,Tairāwhiti,5,2018,1
+1431,Northland,Hawke's Bay,13,2018,1
+1433,Auckland,Hawke's Bay,46,2018,1
+1435,Waikato,Hawke's Bay,47,2018,1
+1437,Bay of Plenty,Hawke's Bay,44,2018,1
+1439,Taranaki,Hawke's Bay,16,2018,1
+1442,Manawatu-Wanganui,Hawke's Bay,22,2018,1
+1446,Tasman-Nelson-Marlborough,Hawke's Bay,15,2018,1
+1448,Canterbury,Hawke's Bay,27,2018,1
+1450,Otago,Hawke's Bay,0,2018,1
+1451,Southland,Hawke's Bay,12,2018,1
+1453,Northland,Taranaki,10,2018,1
+1455,Auckland,Taranaki,19,2018,1
+1457,Waikato,Taranaki,32,2018,1
+1459,Bay of Plenty,Taranaki,10,2018,1
+1461,Taranaki,Taranaki,4624,2018,1
+1464,Manawatu-Wanganui,Taranaki,18,2018,1
+1468,Tasman-Nelson-Marlborough,Taranaki,9,2018,1
+1470,Canterbury,Taranaki,11,2018,1
+1472,Otago,Taranaki,0,2018,1
+1473,Southland,Taranaki,7,2018,1
+1475,Northland,MidCentral,8,2018,1
+1477,Auckland,MidCentral,19,2018,1
+1479,Waikato,MidCentral,26,2018,1
+1481,Bay of Plenty,MidCentral,18,2018,1
+1483,Taranaki,MidCentral,27,2018,1
+1486,Manawatu-Wanganui,MidCentral,85,2018,1
+1490,Tasman-Nelson-Marlborough,MidCentral,9,2018,1
+1492,Canterbury,MidCentral,15,2018,1
+1494,Otago,MidCentral,0,2018,1
+1495,Southland,MidCentral,11,2018,1
+1497,Northland,Whanganui,2,2018,1
+1499,Auckland,Whanganui,10,2018,1
+1501,Waikato,Whanganui,23,2018,1
+1503,Bay of Plenty,Whanganui,10,2018,1
+1505,Taranaki,Whanganui,45,2018,1
+1508,Manawatu-Wanganui,Whanganui,3106,2018,1
+1512,Tasman-Nelson-Marlborough,Whanganui,5,2018,1
+1514,Canterbury,Whanganui,9,2018,1
+1516,Otago,Whanganui,0,2018,1
+1517,Southland,Whanganui,3,2018,1
+1519,Northland,Capital and Coast,29,2018,1
+1521,Auckland,Capital and Coast,99,2018,1
+1523,Waikato,Capital and Coast,120,2018,1
+1525,Bay of Plenty,Capital and Coast,68,2018,1
+1527,Taranaki,Capital and Coast,141,2018,1
+1530,Manawatu-Wanganui,Capital and Coast,218,2018,1
+1534,Tasman-Nelson-Marlborough,Capital and Coast,58,2018,1
+1536,Canterbury,Capital and Coast,71,2018,1
+1538,Otago,Capital and Coast,0,2018,1
+1539,Southland,Capital and Coast,57,2018,1
+1541,Northland,Hutt Valley,6,2018,1
+1543,Auckland,Hutt Valley,11,2018,1
+1545,Waikato,Hutt Valley,13,2018,1
+1547,Bay of Plenty,Hutt Valley,7,2018,1
+1549,Taranaki,Hutt Valley,7,2018,1
+1552,Manawatu-Wanganui,Hutt Valley,10,2018,1
+1556,Tasman-Nelson-Marlborough,Hutt Valley,9,2018,1
+1558,Canterbury,Hutt Valley,10,2018,1
+1560,Otago,Hutt Valley,0,2018,1
+1561,Southland,Hutt Valley,7,2018,1
+1563,Northland,Wairarapa,1,2018,1
+1565,Auckland,Wairarapa,1,2018,1
+1567,Waikato,Wairarapa,1,2018,1
+1569,Bay of Plenty,Wairarapa,4,2018,1
+1571,Taranaki,Wairarapa,3,2018,1
+1574,Manawatu-Wanganui,Wairarapa,2,2018,1
+1578,Tasman-Nelson-Marlborough,Wairarapa,2,2018,1
+1580,Canterbury,Wairarapa,2,2018,1
+1582,Otago,Wairarapa,0,2018,1
+1583,Southland,Wairarapa,2,2018,1
+1585,Northland,Nelson Marlborough,10,2018,1
+1587,Auckland,Nelson Marlborough,19,2018,1
+1589,Waikato,Nelson Marlborough,19,2018,1
+1591,Bay of Plenty,Nelson Marlborough,12,2018,1
+1593,Taranaki,Nelson Marlborough,8,2018,1
+1596,Manawatu-Wanganui,Nelson Marlborough,3,2018,1
+1600,Tasman-Nelson-Marlborough,Nelson Marlborough,5410,2018,1
+1602,Canterbury,Nelson Marlborough,142,2018,1
+1604,Otago,Nelson Marlborough,0,2018,1
+1605,Southland,Nelson Marlborough,47,2018,1
+1607,Northland,West Coast,5,2018,1
+1609,Auckland,West Coast,1,2018,1
+1611,Waikato,West Coast,5,2018,1
+1613,Bay of Plenty,West Coast,2,2018,1
+1615,Taranaki,West Coast,1,2018,1
+1618,Manawatu-Wanganui,West Coast,1,2018,1
+1622,Tasman-Nelson-Marlborough,West Coast,49,2018,1
+1624,Canterbury,West Coast,55,2018,1
+1626,Otago,West Coast,0,2018,1
+1627,Southland,West Coast,19,2018,1
+1629,Northland,Canterbury,13,2018,1
+1631,Auckland,Canterbury,42,2018,1
+1633,Waikato,Canterbury,45,2018,1
+1635,Bay of Plenty,Canterbury,18,2018,1
+1637,Taranaki,Canterbury,10,2018,1
+1640,Manawatu-Wanganui,Canterbury,22,2018,1
+1644,Tasman-Nelson-Marlborough,Canterbury,203,2018,1
+1646,Canterbury,Canterbury,11763,2018,1
+1648,Otago,Canterbury,0,2018,1
+1649,Southland,Canterbury,320,2018,1
+1651,Northland,South Canterbury,2,2018,1
+1653,Auckland,South Canterbury,1,2018,1
+1655,Waikato,South Canterbury,6,2018,1
+1657,Bay of Plenty,South Canterbury,1,2018,1
+1659,Taranaki,South Canterbury,1,2018,1
+1662,Manawatu-Wanganui,South Canterbury,2,2018,1
+1666,Tasman-Nelson-Marlborough,South Canterbury,17,2018,1
+1668,Canterbury,South Canterbury,119,2018,1
+1670,Otago,South Canterbury,0,2018,1
+1671,Southland,South Canterbury,70,2018,1
+1673,Northland,Southern,8,2018,1
+1675,Auckland,Southern,33,2018,1
+1677,Waikato,Southern,24,2018,1
+1679,Bay of Plenty,Southern,21,2018,1
+1681,Taranaki,Southern,8,2018,1
+1684,Manawatu-Wanganui,Southern,5,2018,1
+1688,Tasman-Nelson-Marlborough,Southern,35,2018,1
+1690,Canterbury,Southern,199,2018,1
+1692,Otago,Southern,0,2018,1
+1693,Southland,Southern,10046,2018,1
+1695,Northland,Waitematā,771,2019,1
+1697,Auckland,Waitematā,5904,2019,1
+1699,Waikato,Waitematā,433,2019,1
+1701,Bay of Plenty,Waitematā,149,2019,1
+1703,Taranaki,Waitematā,45,2019,1
+1706,Manawatu-Wanganui,Waitematā,32,2019,1
+1710,Tasman-Nelson-Marlborough,Waitematā,26,2019,1
+1712,Canterbury,Waitematā,81,2019,1
+1714,Otago,Waitematā,0,2019,1
+1715,Southland,Waitematā,74,2019,1
+1717,Northland,Auckland,225,2019,1
+1719,Auckland,Auckland,11437,2019,1
+1721,Waikato,Auckland,290,2019,1
+1723,Bay of Plenty,Auckland,147,2019,1
+1725,Taranaki,Auckland,61,2019,1
+1728,Manawatu-Wanganui,Auckland,21,2019,1
+1732,Tasman-Nelson-Marlborough,Auckland,26,2019,1
+1734,Canterbury,Auckland,96,2019,1
+1736,Otago,Auckland,0,2019,1
+1737,Southland,Auckland,62,2019,1
+1739,Northland,"Counties
+Manukau",149,2019,1
+1741,Auckland,"Counties
+Manukau",1285,2019,1
+1743,Waikato,"Counties
+Manukau",187,2019,1
+1745,Bay of Plenty,"Counties
+Manukau",70,2019,1
+1747,Taranaki,"Counties
+Manukau",36,2019,1
+1750,Manawatu-Wanganui,"Counties
+Manukau",18,2019,1
+1754,Tasman-Nelson-Marlborough,"Counties
+Manukau",13,2019,1
+1756,Canterbury,"Counties
+Manukau",41,2019,1
+1758,Otago,"Counties
+Manukau",0,2019,1
+1759,Southland,"Counties
+Manukau",22,2019,1
+1761,Northland,Waikato,70,2019,1
+1763,Auckland,Waikato,152,2019,1
+1765,Waikato,Waikato,13431,2019,1
+1767,Bay of Plenty,Waikato,423,2019,1
+1769,Taranaki,Waikato,132,2019,1
+1772,Manawatu-Wanganui,Waikato,42,2019,1
+1776,Tasman-Nelson-Marlborough,Waikato,13,2019,1
+1778,Canterbury,Waikato,43,2019,1
+1780,Otago,Waikato,0,2019,1
+1781,Southland,Waikato,55,2019,1
+1783,Northland,Lakes,16,2019,1
+1785,Auckland,Lakes,23,2019,1
+1787,Waikato,Lakes,137,2019,1
+1789,Bay of Plenty,Lakes,107,2019,1
+1791,Taranaki,Lakes,7,2019,1
+1794,Manawatu-Wanganui,Lakes,10,2019,1
+1798,Tasman-Nelson-Marlborough,Lakes,3,2019,1
+1800,Canterbury,Lakes,13,2019,1
+1802,Otago,Lakes,0,2019,1
+1803,Southland,Lakes,16,2019,1
+1805,Northland,"Bay of
+Plenty",32,2019,1
+1807,Auckland,"Bay of
+Plenty",67,2019,1
+1809,Waikato,"Bay of
+Plenty",204,2019,1
+1811,Bay of Plenty,"Bay of
+Plenty",9229,2019,1
+1813,Taranaki,"Bay of
+Plenty",17,2019,1
+1816,Manawatu-Wanganui,"Bay of
+Plenty",8,2019,1
+1820,Tasman-Nelson-Marlborough,"Bay of
+Plenty",9,2019,1
+1822,Canterbury,"Bay of
+Plenty",26,2019,1
+1824,Otago,"Bay of
+Plenty",0,2019,1
+1825,Southland,"Bay of
+Plenty",12,2019,1
+1827,Northland,Tairāwhiti,3,2019,1
+1829,Auckland,Tairāwhiti,7,2019,1
+1831,Waikato,Tairāwhiti,9,2019,1
+1833,Bay of Plenty,Tairāwhiti,7,2019,1
+1835,Taranaki,Tairāwhiti,0,2019,1
+1838,Manawatu-Wanganui,Tairāwhiti,2,2019,1
+1842,Tasman-Nelson-Marlborough,Tairāwhiti,3,2019,1
+1844,Canterbury,Tairāwhiti,1,2019,1
+1846,Otago,Tairāwhiti,0,2019,1
+1847,Southland,Tairāwhiti,4,2019,1
+1849,Northland,Taranaki,5,2019,1
+1851,Auckland,Taranaki,18,2019,1
+1853,Waikato,Taranaki,42,2019,1
+1855,Bay of Plenty,Taranaki,16,2019,1
+1857,Taranaki,Taranaki,4604,2019,1
+1860,Manawatu-Wanganui,Taranaki,22,2019,1
+1864,Tasman-Nelson-Marlborough,Taranaki,8,2019,1
+1866,Canterbury,Taranaki,14,2019,1
+1868,Otago,Taranaki,0,2019,1
+1869,Southland,Taranaki,11,2019,1
+1871,Northland,Hawkes Bay,16,2019,1
+1873,Auckland,Hawkes Bay,33,2019,1
+1875,Waikato,Hawkes Bay,42,2019,1
+1877,Bay of Plenty,Hawkes Bay,40,2019,1
+1879,Taranaki,Hawkes Bay,19,2019,1
+1882,Manawatu-Wanganui,Hawkes Bay,26,2019,1
+1886,Tasman-Nelson-Marlborough,Hawkes Bay,14,2019,1
+1888,Canterbury,Hawkes Bay,29,2019,1
+1890,Otago,Hawkes Bay,0,2019,1
+1891,Southland,Hawkes Bay,13,2019,1
+1893,Northland,MidCentral,7,2019,1
+1895,Auckland,MidCentral,11,2019,1
+1897,Waikato,MidCentral,27,2019,1
+1899,Bay of Plenty,MidCentral,8,2019,1
+1901,Taranaki,MidCentral,23,2019,1
+1904,Manawatu-Wanganui,MidCentral,65,2019,1
+1908,Tasman-Nelson-Marlborough,MidCentral,7,2019,1
+1910,Canterbury,MidCentral,19,2019,1
+1912,Otago,MidCentral,0,2019,1
+1913,Southland,MidCentral,7,2019,1
+1915,Northland,Whanganui,7,2019,1
+1917,Auckland,Whanganui,10,2019,1
+1919,Waikato,Whanganui,23,2019,1
+1921,Bay of Plenty,Whanganui,9,2019,1
+1923,Taranaki,Whanganui,44,2019,1
+1926,Manawatu-Wanganui,Whanganui,3043,2019,1
+1930,Tasman-Nelson-Marlborough,Whanganui,3,2019,1
+1932,Canterbury,Whanganui,11,2019,1
+1934,Otago,Whanganui,0,2019,1
+1935,Southland,Whanganui,6,2019,1
+1937,Northland,Capital and Coast,36,2019,1
+1939,Auckland,Capital and Coast,118,2019,1
+1941,Waikato,Capital and Coast,126,2019,1
+1943,Bay of Plenty,Capital and Coast,57,2019,1
+1945,Taranaki,Capital and Coast,154,2019,1
+1948,Manawatu-Wanganui,Capital and Coast,227,2019,1
+1952,Tasman-Nelson-Marlborough,Capital and Coast,49,2019,1
+1954,Canterbury,Capital and Coast,83,2019,1
+1956,Otago,Capital and Coast,0,2019,1
+1957,Southland,Capital and Coast,56,2019,1
+1959,Northland,Hutt Valley,4,2019,1
+1961,Auckland,Hutt Valley,12,2019,1
+1963,Waikato,Hutt Valley,6,2019,1
+1965,Bay of Plenty,Hutt Valley,7,2019,1
+1967,Taranaki,Hutt Valley,12,2019,1
+1970,Manawatu-Wanganui,Hutt Valley,14,2019,1
+1974,Tasman-Nelson-Marlborough,Hutt Valley,8,2019,1
+1976,Canterbury,Hutt Valley,10,2019,1
+1978,Otago,Hutt Valley,0,2019,1
+1979,Southland,Hutt Valley,10,2019,1
+1981,Northland,Wairarapa,2,2019,1
+1983,Auckland,Wairarapa,2,2019,1
+1985,Waikato,Wairarapa,2,2019,1
+1987,Bay of Plenty,Wairarapa,5,2019,1
+1989,Taranaki,Wairarapa,1,2019,1
+1992,Manawatu-Wanganui,Wairarapa,4,2019,1
+1996,Tasman-Nelson-Marlborough,Wairarapa,4,2019,1
+1998,Canterbury,Wairarapa,2,2019,1
+2000,Otago,Wairarapa,0,2019,1
+2001,Southland,Wairarapa,3,2019,1
+2003,Northland,Nelson Marlborough,2,2019,1
+2005,Auckland,Nelson Marlborough,20,2019,1
+2007,Waikato,Nelson Marlborough,9,2019,1
+2009,Bay of Plenty,Nelson Marlborough,12,2019,1
+2011,Taranaki,Nelson Marlborough,6,2019,1
+2014,Manawatu-Wanganui,Nelson Marlborough,4,2019,1
+2018,Tasman-Nelson-Marlborough,Nelson Marlborough,4916,2019,1
+2020,Canterbury,Nelson Marlborough,126,2019,1
+2022,Otago,Nelson Marlborough,0,2019,1
+2023,Southland,Nelson Marlborough,25,2019,1
+2025,Northland,West Coast,2,2019,1
+2027,Auckland,West Coast,2,2019,1
+2029,Waikato,West Coast,1,2019,1
+2031,Bay of Plenty,West Coast,4,2019,1
+2033,Taranaki,West Coast,1,2019,1
+2036,Manawatu-Wanganui,West Coast,1,2019,1
+2040,Tasman-Nelson-Marlborough,West Coast,30,2019,1
+2042,Canterbury,West Coast,57,2019,1
+2044,Otago,West Coast,0,2019,1
+2045,Southland,West Coast,18,2019,1
+2047,Northland,Canterbury,16,2019,1
+2049,Auckland,Canterbury,46,2019,1
+2051,Waikato,Canterbury,45,2019,1
+2053,Bay of Plenty,Canterbury,27,2019,1
+2055,Taranaki,Canterbury,17,2019,1
+2058,Manawatu-Wanganui,Canterbury,6,2019,1
+2062,Tasman-Nelson-Marlborough,Canterbury,228,2019,1
+2064,Canterbury,Canterbury,12369,2019,1
+2066,Otago,Canterbury,0,2019,1
+2067,Southland,Canterbury,278,2019,1
+2069,Northland,South Canterbury,2,2019,1
+2071,Auckland,South Canterbury,6,2019,1
+2073,Waikato,South Canterbury,10,2019,1
+2075,Bay of Plenty,South Canterbury,2,2019,1
+2077,Taranaki,South Canterbury,2,2019,1
+2080,Manawatu-Wanganui,South Canterbury,2,2019,1
+2084,Tasman-Nelson-Marlborough,South Canterbury,5,2019,1
+2086,Canterbury,South Canterbury,103,2019,1
+2088,Otago,South Canterbury,0,2019,1
+2089,Southland,South Canterbury,54,2019,1
+2091,Northland,Southern,11,2019,1
+2093,Auckland,Southern,25,2019,1
+2095,Waikato,Southern,20,2019,1
+2097,Bay of Plenty,Southern,14,2019,1
+2099,Taranaki,Southern,10,2019,1
+2102,Manawatu-Wanganui,Southern,6,2019,1
+2106,Tasman-Nelson-Marlborough,Southern,49,2019,1
+2108,Canterbury,Southern,172,2019,1
+2110,Otago,Southern,0,2019,1
+2111,Southland,Southern,9818,2019,1
+2113,Northland,Waitematā,705,2020,1
+2115,Auckland,Waitematā,5436,2020,1
+2117,Waikato,Waitematā,410,2020,1
+2119,Bay of Plenty,Waitematā,127,2020,1
+2121,Taranaki,Waitematā,36,2020,1
+2124,Manawatu-Wanganui,Waitematā,23,2020,1
+2128,Tasman-Nelson-Marlborough,Waitematā,31,2020,1
+2130,Canterbury,Waitematā,71,2020,1
+2132,Otago,Waitematā,0,2020,1
+2133,Southland,Waitematā,56,2020,1
+2135,Northland,Auckland,218,2020,1
+2137,Auckland,Auckland,11575,2020,1
+2139,Waikato,Auckland,270,2020,1
+2141,Bay of Plenty,Auckland,140,2020,1
+2143,Taranaki,Auckland,60,2020,1
+2146,Manawatu-Wanganui,Auckland,20,2020,1
+2150,Tasman-Nelson-Marlborough,Auckland,39,2020,1
+2152,Canterbury,Auckland,99,2020,1
+2154,Otago,Auckland,0,2020,1
+2155,Southland,Auckland,68,2020,1
+2157,Northland,"Counties
+Manukau",146,2020,1
+2159,Auckland,"Counties
+Manukau",1282,2020,1
+2161,Waikato,"Counties
+Manukau",209,2020,1
+2163,Bay of Plenty,"Counties
+Manukau",73,2020,1
+2165,Taranaki,"Counties
+Manukau",19,2020,1
+2168,Manawatu-Wanganui,"Counties
+Manukau",7,2020,1
+2172,Tasman-Nelson-Marlborough,"Counties
+Manukau",12,2020,1
+2174,Canterbury,"Counties
+Manukau",41,2020,1
+2176,Otago,"Counties
+Manukau",0,2020,1
+2177,Southland,"Counties
+Manukau",27,2020,1
+2179,Northland,Waikato,81,2020,1
+2181,Auckland,Waikato,170,2020,1
+2183,Waikato,Waikato,13821,2020,1
+2185,Bay of Plenty,Waikato,399,2020,1
+2187,Taranaki,Waikato,114,2020,1
+2190,Manawatu-Wanganui,Waikato,37,2020,1
+2194,Tasman-Nelson-Marlborough,Waikato,24,2020,1
+2196,Canterbury,Waikato,50,2020,1
+2198,Otago,Waikato,0,2020,1
+2199,Southland,Waikato,55,2020,1
+2201,Northland,Lakes,11,2020,1
+2203,Auckland,Lakes,27,2020,1
+2205,Waikato,Lakes,116,2020,1
+2207,Bay of Plenty,Lakes,128,2020,1
+2209,Taranaki,Lakes,5,2020,1
+2212,Manawatu-Wanganui,Lakes,6,2020,1
+2216,Tasman-Nelson-Marlborough,Lakes,5,2020,1
+2218,Canterbury,Lakes,16,2020,1
+2220,Otago,Lakes,0,2020,1
+2221,Southland,Lakes,7,2020,1
+2223,Northland,"Bay of
+Plenty",27,2020,1
+2225,Auckland,"Bay of
+Plenty",72,2020,1
+2227,Waikato,"Bay of
+Plenty",254,2020,1
+2229,Bay of Plenty,"Bay of
+Plenty",8827,2020,1
+2231,Taranaki,"Bay of
+Plenty",18,2020,1
+2234,Manawatu-Wanganui,"Bay of
+Plenty",11,2020,1
+2238,Tasman-Nelson-Marlborough,"Bay of
+Plenty",11,2020,1
+2240,Canterbury,"Bay of
+Plenty",15,2020,1
+2242,Otago,"Bay of
+Plenty",0,2020,1
+2243,Southland,"Bay of
+Plenty",18,2020,1
+2245,Northland,Tairāwhiti,0,2020,1
+2247,Auckland,Tairāwhiti,4,2020,1
+2249,Waikato,Tairāwhiti,13,2020,1
+2251,Bay of Plenty,Tairāwhiti,11,2020,1
+2253,Taranaki,Tairāwhiti,2,2020,1
+2256,Manawatu-Wanganui,Tairāwhiti,1,2020,1
+2260,Tasman-Nelson-Marlborough,Tairāwhiti,1,2020,1
+2262,Canterbury,Tairāwhiti,2,2020,1
+2264,Otago,Tairāwhiti,0,2020,1
+2265,Southland,Tairāwhiti,0,2020,1
+2267,Northland,Taranaki,13,2020,1
+2269,Auckland,Taranaki,13,2020,1
+2271,Waikato,Taranaki,37,2020,1
+2273,Bay of Plenty,Taranaki,15,2020,1
+2275,Taranaki,Taranaki,4425,2020,1
+2278,Manawatu-Wanganui,Taranaki,28,2020,1
+2282,Tasman-Nelson-Marlborough,Taranaki,9,2020,1
+2284,Canterbury,Taranaki,19,2020,1
+2286,Otago,Taranaki,0,2020,1
+2287,Southland,Taranaki,4,2020,1
+2289,Northland,Hawkes Bay,20,2020,1
+2291,Auckland,Hawkes Bay,35,2020,1
+2293,Waikato,Hawkes Bay,52,2020,1
+2295,Bay of Plenty,Hawkes Bay,22,2020,1
+2297,Taranaki,Hawkes Bay,15,2020,1
+2300,Manawatu-Wanganui,Hawkes Bay,17,2020,1
+2304,Tasman-Nelson-Marlborough,Hawkes Bay,10,2020,1
+2306,Canterbury,Hawkes Bay,26,2020,1
+2308,Otago,Hawkes Bay,0,2020,1
+2309,Southland,Hawkes Bay,16,2020,1
+2311,Northland,MidCentral,6,2020,1
+2313,Auckland,MidCentral,15,2020,1
+2315,Waikato,MidCentral,28,2020,1
+2317,Bay of Plenty,MidCentral,20,2020,1
+2319,Taranaki,MidCentral,11,2020,1
+2322,Manawatu-Wanganui,MidCentral,79,2020,1
+2326,Tasman-Nelson-Marlborough,MidCentral,13,2020,1
+2328,Canterbury,MidCentral,21,2020,1
+2330,Otago,MidCentral,0,2020,1
+2331,Southland,MidCentral,5,2020,1
+2333,Northland,Whanganui,7,2020,1
+2335,Auckland,Whanganui,10,2020,1
+2337,Waikato,Whanganui,24,2020,1
+2339,Bay of Plenty,Whanganui,12,2020,1
+2341,Taranaki,Whanganui,49,2020,1
+2344,Manawatu-Wanganui,Whanganui,3039,2020,1
+2348,Tasman-Nelson-Marlborough,Whanganui,4,2020,1
+2350,Canterbury,Whanganui,7,2020,1
+2352,Otago,Whanganui,0,2020,1
+2353,Southland,Whanganui,5,2020,1
+2355,Northland,"Capital and
+Coast",23,2020,1
+2357,Auckland,"Capital and
+Coast",79,2020,1
+2359,Waikato,"Capital and
+Coast",88,2020,1
+2361,Bay of Plenty,"Capital and
+Coast",43,2020,1
+2363,Taranaki,"Capital and
+Coast",114,2020,1
+2366,Manawatu-Wanganui,"Capital and
+Coast",228,2020,1
+2370,Tasman-Nelson-Marlborough,"Capital and
+Coast",60,2020,1
+2372,Canterbury,"Capital and
+Coast",55,2020,1
+2374,Otago,"Capital and
+Coast",0,2020,1
+2375,Southland,"Capital and
+Coast",49,2020,1
+2377,Northland,Hutt Valley,4,2020,1
+2379,Auckland,Hutt Valley,6,2020,1
+2381,Waikato,Hutt Valley,9,2020,1
+2383,Bay of Plenty,Hutt Valley,7,2020,1
+2385,Taranaki,Hutt Valley,3,2020,1
+2388,Manawatu-Wanganui,Hutt Valley,12,2020,1
+2392,Tasman-Nelson-Marlborough,Hutt Valley,12,2020,1
+2394,Canterbury,Hutt Valley,15,2020,1
+2396,Otago,Hutt Valley,0,2020,1
+2397,Southland,Hutt Valley,7,2020,1
+2399,Northland,Wairarapa,1,2020,1
+2401,Auckland,Wairarapa,2,2020,1
+2403,Waikato,Wairarapa,6,2020,1
+2405,Bay of Plenty,Wairarapa,4,2020,1
+2407,Taranaki,Wairarapa,4,2020,1
+2410,Manawatu-Wanganui,Wairarapa,10,2020,1
+2414,Tasman-Nelson-Marlborough,Wairarapa,1,2020,1
+2416,Canterbury,Wairarapa,5,2020,1
+2418,Otago,Wairarapa,0,2020,1
+2419,Southland,Wairarapa,7,2020,1
+2421,Northland,"Nelson
+Marlborough",7,2020,1
+2423,Auckland,"Nelson
+Marlborough",14,2020,1
+2425,Waikato,"Nelson
+Marlborough",17,2020,1
+2427,Bay of Plenty,"Nelson
+Marlborough",10,2020,1
+2429,Taranaki,"Nelson
+Marlborough",8,2020,1
+2432,Manawatu-Wanganui,"Nelson
+Marlborough",4,2020,1
+2436,Tasman-Nelson-Marlborough,"Nelson
+Marlborough",5155,2020,1
+2438,Canterbury,"Nelson
+Marlborough",133,2020,1
+2440,Otago,"Nelson
+Marlborough",0,2020,1
+2441,Southland,"Nelson
+Marlborough",34,2020,1
+2443,Northland,West Coast,4,2020,1
+2445,Auckland,West Coast,4,2020,1
+2447,Waikato,West Coast,2,2020,1
+2449,Bay of Plenty,West Coast,4,2020,1
+2451,Taranaki,West Coast,3,2020,1
+2454,Manawatu-Wanganui,West Coast,1,2020,1
+2458,Tasman-Nelson-Marlborough,West Coast,24,2020,1
+2460,Canterbury,West Coast,60,2020,1
+2462,Otago,West Coast,0,2020,1
+2463,Southland,West Coast,14,2020,1
+2465,Northland,Canterbury,14,2020,1
+2467,Auckland,Canterbury,42,2020,1
+2469,Waikato,Canterbury,44,2020,1
+2471,Bay of Plenty,Canterbury,23,2020,1
+2473,Taranaki,Canterbury,13,2020,1
+2476,Manawatu-Wanganui,Canterbury,8,2020,1
+2480,Tasman-Nelson-Marlborough,Canterbury,193,2020,1
+2482,Canterbury,Canterbury,12478,2020,1
+2484,Otago,Canterbury,0,2020,1
+2485,Southland,Canterbury,251,2020,1
+2487,Northland,"South
+Canterbury",6,2020,1
+2489,Auckland,"South
+Canterbury",1,2020,1
+2491,Waikato,"South
+Canterbury",6,2020,1
+2493,Bay of Plenty,"South
+Canterbury",0,2020,1
+2495,Taranaki,"South
+Canterbury",0,2020,1
+2498,Manawatu-Wanganui,"South
+Canterbury",5,2020,1
+2502,Tasman-Nelson-Marlborough,"South
+Canterbury",10,2020,1
+2504,Canterbury,"South
+Canterbury",87,2020,1
+2506,Otago,"South
+Canterbury",0,2020,1
+2507,Southland,"South
+Canterbury",66,2020,1
+2509,Northland,Southern,21,2020,1
+2511,Auckland,Southern,28,2020,1
+2513,Waikato,Southern,20,2020,1
+2515,Bay of Plenty,Southern,11,2020,1
+2517,Taranaki,Southern,9,2020,1
+2520,Manawatu-Wanganui,Southern,4,2020,1
+2524,Tasman-Nelson-Marlborough,Southern,26,2020,1
+2526,Canterbury,Southern,155,2020,1
+2528,Otago,Southern,0,2020,1
+2529,Southland,Southern,9601,2020,1
