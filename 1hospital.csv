@@ -1,0 +1,72 @@
+﻿Premises_Name,Total_Beds,ObjectId,Region
+Auckland City Hospital,1124,1,Auckland
+Auckland DHB X 3 Units - Mental Health,96,2,Auckland
+Buchanan Rehabilitation Centre,40,3,Auckland
+Greenlane Clinical Centre,31,4,Auckland
+Opotiki Health Care Centre,6,5,Bay of Plenty
+Tauranga Hospital,360,6,Bay of Plenty
+Whakatane Hospital,96,7,Bay of Plenty
+Ashburton Hospital,54,8,Canterbury
+Burwood Hospital,229,9,Canterbury
+Chatham Island Health Centre,3,10,Canterbury
+Christchurch Hospital,833,11,Canterbury
+Darfield Hospital,9,12,Canterbury
+Ellesmere Hospital,10,13,Canterbury
+Hillmorton Hospital,195,14,Canterbury
+Kaikoura Hospital,21,15,Canterbury
+Lincoln Maternity Hospital,7,16,Canterbury
+Oxford Hospital,15,17,Canterbury
+Rangiora Hospital,16,18,Canterbury
+The Princess Margaret Hospital,53,19,Canterbury
+Tuarangi Home,37,20,Canterbury
+Waikari Hospital,10,21,Canterbury
+Kapiti Health Centre,2,22,Wellington
+Kenepuru Hospital,131,23,Wellington
+Porirua Hospital Campus (Mental Health Services),118,24,Wellington
+Wellington Hospital,484,25,Wellington
+Wellington Hospital (Mental Health Services),29,26,Wellington
+Auckland Spinal Rehabilitation ,20,27,Auckland
+Botany Downs Hospital,20,28,Auckland
+Franklin Memorial Hospital,18,29,Auckland
+Manukau Surgery Centre,78,30,Auckland
+Middlemore Hospital,889,31,Auckland
+Papakura Obstetric Hospital,13,32,Auckland
+Pukekohe Hospital,32,33,Auckland
+Tamaki Oranga,20,34,Auckland
+Alexandra Hospital,12,43,Tasman-Nelson-Marlborough
+Mental Health Admissions Unit,26,44,Tasman-Nelson-Marlborough
+Murchison Hospital and Health Centre,8,45,Tasman-Nelson-Marlborough
+Nelson Bays Maternity Unit (Te Whare Whanau),5,46,Tasman-Nelson-Marlborough
+Nelson Hospital,191,47,Tasman-Nelson-Marlborough
+Tipahi Street Mental Health,13,48,Tasman-Nelson-Marlborough
+Wairau Hospital,100,49,Tasman-Nelson-Marlborough
+Bay of Islands Hospital,20,50,Northland
+Dargaville Hospital,19,51,Northland
+Kaitaia Hospital,32,52,Northland
+Timatanga Hou - Detox Unit,8,53,Northland
+Whangarei Hospital,249,54,Northland
+Dunedin Hospital,361,56,Otago
+Lakes District Hospital,15,57,Otago
+Southland Hospital,168,58,Otago
+Wakari Hospital,90,59,Otago
+Gisborne Hospital,115,60,Gisborne
+Hawera Hospital,14,61,Taranaki
+Taranaki Base Hospital,194,62,Taranaki
+Matariki Hospital,32,63,Waikato
+Puna Whiti,5,64,Waikato
+Rhoda Read Hospital,32,65,Waikato
+Taumarunui Hospital and Family Health Team,14,66,Waikato
+Te Kuiti Hospital,16,67,Waikato
+Thames Hospital,52,68,Waikato
+Tokoroa Hospital,21,69,Waikato
+Waikato Hospital,673,70,Waikato
+Ward OPR1,15,71,Waikato
+Elective Surgery Centre,30,73,Auckland
+He Puna Waiora,35,74,Auckland
+Mason Clinic,109,75,Auckland
+North Shore Hospital,663,76,Auckland
+Pitman House,10,77,Auckland
+Waiatarau Inpatient Mental Health Unit,32,78,Auckland
+Waitakere Hospital,283,79,Auckland
+Wilson Centre,26,80,Auckland
+Whanganui Hospital,172,83,Manawatu-Wanganui
